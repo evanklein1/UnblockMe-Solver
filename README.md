@@ -1,6 +1,6 @@
 # Unblock Me - Solver
 
-Collaborators: [atheed](https://github.com/atheed)
+Developed by myself ([evanklein1](https://github.com/evanklein1) and [atheed](https://github.com/atheed)
 
 This is a solver for the classic puzzle game, [Unblock Me](https://play.google.com/store/apps/details?id=com.kiragames.unblockmefree&hl=en), that uses A* heuristic search and other artificial intelligence techniques to find a path of moves from an initial board to a goal/winning state.
 
